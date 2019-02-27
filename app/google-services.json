@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "685372388070",
+    "firebase_url": "https://ubermaponly.firebaseio.com",
+    "project_id": "ubermaponly",
+    "storage_bucket": "ubermaponly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685372388070:android:00ae349595c86f0c",
+        "android_client_info": {
+          "package_name": "com.example.acer.ubberrrrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685372388070-bn5q3sqf2t2r4b8c5rkd5crji7fjo0a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.ubberrrrr",
+            "certificate_hash": "8702f0fe94d52764be5c3eac3e4a3ebfc20385d7"
+          }
+        },
+        {
+          "client_id": "685372388070-15oq13rinrp6rjp9p5bckd77dcmaru6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSAz9k2D--b7Z_smLtXaafOP7UbBi3Sp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685372388070-15oq13rinrp6rjp9p5bckd77dcmaru6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
